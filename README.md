@@ -1,7 +1,18 @@
-# hello-world
-Repositorio inicial de hello-world
+# Repositorio inicial de pruebas
 
-Durante este último período, se potenció mi deseo, mi pasión por el desarrollo web y el aprendizaje de nuevas tecnologías.
+
+
+## Cuando me pregunten, que hiciste durante esta pandemia? 
+
+
+#### Mi respuesta seguirá siendo, aprovechando el tiempo en capacitarme para seguir creciendo profesionalmente.
+
+##### En resumen, durante este último período, se potenció:
+
+>### - Mi deseo 🔥🔥
+>### - Mi pasión  🔥🔥
+
+#### Por el desarrollo web, por el Frontend y el aprendizaje de nuevas tecnologías.
 
 Parte de este tiempo lo invierto en capacitación, actualmente aprendo:
 
