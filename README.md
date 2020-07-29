@@ -1,22 +1,26 @@
-# Repositorio inicial de pruebas
+# Initial repository, used for testing.
 
 
 
-## Cuando me pregunten, que hiciste durante esta pandemia? 
+## When they ask me, what did you do during this pandemic? 
 
 
-#### Mi respuesta seguirá siendo, aprovechando el tiempo en capacitarme para seguir creciendo profesionalmente.
+#### My answer will be, taking advantage of the time to train myself to continue growing professionally.
 
-##### En resumen, durante este último período, se potenció:
+##### In summary, during this last period, it was promoted:
 
->### - Mi deseo 🔥🔥
->### - Mi pasión  🔥🔥
+>### - my desire 🔥🔥
+>### - my passion  🔥🔥
 
-#### Por el desarrollo web, por el Frontend y el aprendizaje de nuevas tecnologías.
+#### For web development, for Frontend and learning new technologies.
 
-Parte de este tiempo lo invierto en capacitación, actualmente aprendo:
+I spend part of this time in training, currently I am learning:
 
-- Vue.Js y arquitectura de componentes con Vuex.
+- Vue.Js and component architecture with Vuex.
 - Node.js, Express, Sequelize, Docker.
-- Desarrollo de API REST con Node.js, Express, MySql.
-- Me interesa la optimización y escalabilidad web.
+- Development API REST with Node.js, Express, MySql.
+- I'm interested in web optimization and scalability.
+
+## Example code
+
+### 👉👉 [Basic example page using Github Pages](https://code4kb.github.io/hello-world/index.html).
