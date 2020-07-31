@@ -1,8 +1,11 @@
-# Initial repository, used for testing.
+# 📦 Repository used for testing
+
+
+<p align="center"><img src="https://code4kb.github.io/hello-world/images/hello-world.gif" width="100%"/></p><br/>
 
 
 
-## When they ask me, what did you do during this pandemic? 
+## ❓ When they ask me, what did you do during this pandemic? 
 
 
 #### My answer will be, taking advantage of the time to train myself to continue growing professionally.
@@ -12,7 +15,7 @@
 >### - my desire 🔥🔥
 >### - my passion  🔥🔥
 
-#### For web development, for Frontend and learning new technologies.
+#### 🖥️ For web development, for Frontend and learning new technologies.
 
 I spend part of this time in training, currently I am learning:
 
@@ -23,4 +26,4 @@ I spend part of this time in training, currently I am learning:
 
 ## Example code
 
-### 👉👉 [Basic example page using Github Pages](https://code4kb.github.io/hello-world/index.html).
+### 👉👉 [Live! basic example page using Github Pages](https://code4kb.github.io/hello-world/index.html).
